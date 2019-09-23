@@ -10,7 +10,7 @@ This application demonstrates the creation and transfer of tuna fish shipments b
   <pre><code>$ npm install</code></pre>
   <li> Register the Admin and User components of our network</li>
   <pre><code>$ node registerAdmin.js
-$ node registerUser.js</code></pre>
+$ node registerUser.js 'user-name'</code></pre>
   <li> Start the client application </li>
   <pre><code>$ node server.js</code></pre>
 </ol>
