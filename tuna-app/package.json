@@ -1,0 +1,30 @@
+{
+  "name": "shark-app",
+  "version": "1.0.0",
+  "description": "Hyperledger Fabric MOOC Sample Application",
+  "main": "server.js",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "fabric-ca-client": "^1.4.4",
+    "fabric-client": "^1.4.4",
+    "grpc": "^1.23.3"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "Hyperledger",
+    "Fabric",
+    "Oceans",
+    "Tuna",
+    "Fishing",
+    "Sample",
+    "Application"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "author": "prince"
+}
