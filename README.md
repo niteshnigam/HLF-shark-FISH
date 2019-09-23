@@ -24,7 +24,7 @@ To resolve persmission issues while running <b>./startFabric.sh</b>
 If you get error while creating user/admin components. Try following commands
 <pre><code>$ rm -rf ~/.hfc-key-store
 $ node registerAdmin.js
-$ node registerUser.js <p> user-name </p></pre></code>
+$ node registerUser.js 'user-name'</pre></code>
 
 ## Shutdown the network and clean up images
 
