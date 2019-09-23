@@ -1,4 +1,4 @@
-# Hyperledger Fabric Tuna App
+# Hyperledger Fabric shark App
 This application demonstrates the creation and transfer of tuna fish shipments between actors leveraging Hyperledger Fabric in the supply chain. 
 
 ## Setup
